@@ -1,0 +1,15 @@
+C:\Users\Julia\.Net\Projetos-.Net\ProjetoMatrizes\bin\Debug\net8.0\ProjetoMatrizes.exe
+C:\Users\Julia\.Net\Projetos-.Net\ProjetoMatrizes\bin\Debug\net8.0\ProjetoMatrizes.deps.json
+C:\Users\Julia\.Net\Projetos-.Net\ProjetoMatrizes\bin\Debug\net8.0\ProjetoMatrizes.runtimeconfig.json
+C:\Users\Julia\.Net\Projetos-.Net\ProjetoMatrizes\bin\Debug\net8.0\ProjetoMatrizes.dll
+C:\Users\Julia\.Net\Projetos-.Net\ProjetoMatrizes\bin\Debug\net8.0\ProjetoMatrizes.pdb
+C:\Users\Julia\.Net\Projetos-.Net\ProjetoMatrizes\obj\Debug\net8.0\ProjetoMatrizes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Julia\.Net\Projetos-.Net\ProjetoMatrizes\obj\Debug\net8.0\ProjetoMatrizes.AssemblyInfoInputs.cache
+C:\Users\Julia\.Net\Projetos-.Net\ProjetoMatrizes\obj\Debug\net8.0\ProjetoMatrizes.AssemblyInfo.cs
+C:\Users\Julia\.Net\Projetos-.Net\ProjetoMatrizes\obj\Debug\net8.0\ProjetoMatrizes.csproj.CoreCompileInputs.cache
+C:\Users\Julia\.Net\Projetos-.Net\ProjetoMatrizes\obj\Debug\net8.0\ProjetoMatrizes.sourcelink.json
+C:\Users\Julia\.Net\Projetos-.Net\ProjetoMatrizes\obj\Debug\net8.0\ProjetoMatrizes.dll
+C:\Users\Julia\.Net\Projetos-.Net\ProjetoMatrizes\obj\Debug\net8.0\refint\ProjetoMatrizes.dll
+C:\Users\Julia\.Net\Projetos-.Net\ProjetoMatrizes\obj\Debug\net8.0\ProjetoMatrizes.pdb
+C:\Users\Julia\.Net\Projetos-.Net\ProjetoMatrizes\obj\Debug\net8.0\ProjetoMatrizes.genruntimeconfig.cache
+C:\Users\Julia\.Net\Projetos-.Net\ProjetoMatrizes\obj\Debug\net8.0\ref\ProjetoMatrizes.dll

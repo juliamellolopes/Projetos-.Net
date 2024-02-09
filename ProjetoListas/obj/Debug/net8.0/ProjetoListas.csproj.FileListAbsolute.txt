@@ -1,0 +1,15 @@
+C:\Users\Julia\.Net\Projetos-.Net\ProjetoListas\bin\Debug\net8.0\ProjetoListas.exe
+C:\Users\Julia\.Net\Projetos-.Net\ProjetoListas\bin\Debug\net8.0\ProjetoListas.deps.json
+C:\Users\Julia\.Net\Projetos-.Net\ProjetoListas\bin\Debug\net8.0\ProjetoListas.runtimeconfig.json
+C:\Users\Julia\.Net\Projetos-.Net\ProjetoListas\bin\Debug\net8.0\ProjetoListas.dll
+C:\Users\Julia\.Net\Projetos-.Net\ProjetoListas\bin\Debug\net8.0\ProjetoListas.pdb
+C:\Users\Julia\.Net\Projetos-.Net\ProjetoListas\obj\Debug\net8.0\ProjetoListas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Julia\.Net\Projetos-.Net\ProjetoListas\obj\Debug\net8.0\ProjetoListas.AssemblyInfoInputs.cache
+C:\Users\Julia\.Net\Projetos-.Net\ProjetoListas\obj\Debug\net8.0\ProjetoListas.AssemblyInfo.cs
+C:\Users\Julia\.Net\Projetos-.Net\ProjetoListas\obj\Debug\net8.0\ProjetoListas.csproj.CoreCompileInputs.cache
+C:\Users\Julia\.Net\Projetos-.Net\ProjetoListas\obj\Debug\net8.0\ProjetoListas.sourcelink.json
+C:\Users\Julia\.Net\Projetos-.Net\ProjetoListas\obj\Debug\net8.0\ProjetoListas.dll
+C:\Users\Julia\.Net\Projetos-.Net\ProjetoListas\obj\Debug\net8.0\refint\ProjetoListas.dll
+C:\Users\Julia\.Net\Projetos-.Net\ProjetoListas\obj\Debug\net8.0\ProjetoListas.pdb
+C:\Users\Julia\.Net\Projetos-.Net\ProjetoListas\obj\Debug\net8.0\ProjetoListas.genruntimeconfig.cache
+C:\Users\Julia\.Net\Projetos-.Net\ProjetoListas\obj\Debug\net8.0\ref\ProjetoListas.dll
